@@ -1,8 +1,13 @@
 # TensorFlow_cousera
 
-텐서 플로우 자격증 따기 1주일
+~~텐서플로우 자격증 따기 1주일~~
+텐서플로우 코세라 강의 16주분량 빠르게 공부해보기
 
 코세라 강의
+
+## course1
+
+Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
 > Day1
 
@@ -46,3 +51,12 @@
 
 - 코세라 4주차 강의
 - 21.01.20
+
+## course2
+
+Convolutional Neural Networks in TensorFlow
+
+> Day8
+
+- 코세라 1주차 강의
+- 21.01.21
