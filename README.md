@@ -1,6 +1,7 @@
 # TensorFlow_cousera
 
 ~~텐서플로우 자격증 따기 1주일~~
+
 텐서플로우 코세라 강의 16주분량 빠르게 공부해보기
 
 코세라 강의
@@ -59,4 +60,10 @@ Convolutional Neural Networks in TensorFlow
 > Day8
 
 - 코세라 1주차 강의
+- Visualizing the effect of the convolutions 전까지
 - 21.01.21
+
+> Day9
+
+- 코세라 1주차 강의
+- 21.01.22
