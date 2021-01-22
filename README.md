@@ -66,4 +66,5 @@ Convolutional Neural Networks in TensorFlow
 > Day9
 
 - 코세라 1주차 강의
+- Cats & Dogs Question 진행중(생각보다 어려워서 오래걸림)
 - 21.01.22
