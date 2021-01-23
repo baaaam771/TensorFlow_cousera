@@ -1,6 +1,6 @@
 # TensorFlow_cousera
 
-~~텐서플로우 자격증 따기 1주일~~
+~~구글 텐서플로우 국제 자격증 따기 1주일~~
 
 텐서플로우 코세라 강의 16주분량 빠르게 공부해보기
 
@@ -68,3 +68,16 @@ Convolutional Neural Networks in TensorFlow
 - 코세라 1주차 강의
 - Cats & Dogs Question 진행중(생각보다 어려워서 오래걸림)
 - 21.01.22
+
+> Day10
+
+- 코세라 2주차 강의
+- Cats & Dogs Question - zip, dir관리 방법 익히고 split에서 막힘
+- Question2도 동일 방식이라 구글링 활용
+- Cats & Dogs Question1해결, 문제 2 전까지
+- 21.01.23
+
+> Day11
+
+- 코세라 2주차 강의
+- 21.01.24
