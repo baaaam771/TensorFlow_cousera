@@ -79,5 +79,12 @@ Convolutional Neural Networks in TensorFlow
 
 > Day11
 
-- 코세라 2주차 강의
+- 코세라 3주차 강의
+- Cats & Dogs Question2 해결
+- filter 기사 쓰다가 arg/vgg16 실습
 - 21.01.24
+
+> Day12
+
+- 코세라 3주차 강의
+- 21.01.25
