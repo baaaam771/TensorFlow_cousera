@@ -87,4 +87,10 @@ Convolutional Neural Networks in TensorFlow
 > Day12
 
 - 코세라 3주차 강의
+- 마지막 문제까지 완료
 - 21.01.25
+
+> Day13
+
+- 코세라 4주차 강의
+- 21.01.26
