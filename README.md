@@ -93,4 +93,15 @@ Convolutional Neural Networks in TensorFlow
 > Day13
 
 - 코세라 4주차 강의
+- 마지막 문제 파일 전처리를 하기 위한 함수 제작 까다로웠음(get_data)
+- fit을 하기 위해서입력 크기 맞추는게 항상 헷갈림
 - 21.01.26
+
+## course3
+
+Natural Language Processing in TensorFlow
+
+> Day14
+
+- 코세라 1주차 강의
+- 21.01.27
