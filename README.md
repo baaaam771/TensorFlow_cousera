@@ -108,7 +108,8 @@ Natural Language Processing in TensorFlow
 - 문제를 직접풀어서 채점하는 과정 없어짐 정답을 줌 직접 해봐야할 필요가 있다.
 - 21.01.27
 
-> Day14
+> Day15
 
 - 코세라 2주차 강의
+- Remember the sarcasm dataset? 전까지 갑자기 양이 많아졌음
 - 21.01.28
