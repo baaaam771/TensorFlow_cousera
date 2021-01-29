@@ -113,3 +113,8 @@ Natural Language Processing in TensorFlow
 - 코세라 2주차 강의
 - Remember the sarcasm dataset? 전까지 갑자기 양이 많아졌음
 - 21.01.28
+
+> Day16
+
+- 코세라 2주차 피곤해서 아무것도 못함
+- 21.01.28
