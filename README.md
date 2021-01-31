@@ -117,4 +117,17 @@ Natural Language Processing in TensorFlow
 > Day16
 
 - 코세라 2주차 피곤해서 아무것도 못함
-- 21.01.28
+- 21.01.29
+
+> Day17
+
+- 코세라 2주차 나머지
+- 코세라 3주차
+- IMDB Subwords 8K with Multi Layer LSTM까지
+- 21.01.30
+
+> Day18
+
+- 코세라 3주차 마지막까지
+- GloVe에 대해 좀더 알아봐야함
+- 21.01.31
