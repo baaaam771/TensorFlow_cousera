@@ -136,5 +136,14 @@ Natural Language Processing in TensorFlow
 
 - 코세라 4주차
 - GloVe는 임베딩 방식 중에 하나
-- 시를 화룡해서 자연어를 만드니 그럴싸해짐
+- 시를 활용해서 자연어를 만드니 그럴싸해짐
 - 21.02.01
+
+## course4
+
+Sequences, Time Series and Prediction
+
+> Day20
+
+- 코세라 1주차
+- 21.02.02
