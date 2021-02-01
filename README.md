@@ -129,5 +129,12 @@ Natural Language Processing in TensorFlow
 > Day18
 
 - 코세라 3주차 마지막까지
-- GloVe에 대해 좀더 알아봐야함
+- GloVe에 대해 좀 더 알아봐야함
 - 21.01.31
+
+> Day19
+
+- 코세라 4주차
+- GloVe는 임베딩 방식 중에 하나
+- 시를 화룡해서 자연어를 만드니 그럴싸해짐
+- 21.02.01
