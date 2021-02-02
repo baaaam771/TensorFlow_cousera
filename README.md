@@ -146,4 +146,12 @@ Sequences, Time Series and Prediction
 > Day20
 
 - 코세라 1주차
+- 시계열 데이터의 필수적인 개념습득
+- auto-correlation 헷갈렸음
+- season, trend가 맞지 않을 때 1년 전의 추세와 현재의 추세의 차이를 고려하여 다음 포인트를 예측하는 과정이 어려우면서 신박함
 - 21.02.02
+
+> Day21
+
+- 코세라 2주차
+- 21.02.03
