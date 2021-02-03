@@ -153,5 +153,10 @@ Sequences, Time Series and Prediction
 
 > Day21
 
-- 코세라 2주차
+- 뮤지컬 보느라 하루 쉬었습니다
 - 21.02.03
+
+> Day22
+
+- 코세라 2주차
+- 21.02.04
