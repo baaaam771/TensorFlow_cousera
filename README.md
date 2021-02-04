@@ -159,4 +159,8 @@ Sequences, Time Series and Prediction
 > Day22
 
 - 코세라 2주차
+- 시계열 데이터를 예측하는 매커니즘이 이해가 가는데 마지막에 plot을 표시하는 과정이 헷갈림
+- 하나씩 표기 해보니 예측을 validation부분만 하는 것이 아니라 train의 시작부분부터 forecast하기 시작해서 마지막에 최종적으로 validation부분만 표기하는 것임
+- learning mate scheduler도 헷갈림
+- 좋은 학습 속도를 위해 적적한 파라미터를 선정하는 과정임
 - 21.02.04
