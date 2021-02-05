@@ -174,3 +174,8 @@ Sequences, Time Series and Prediction
 - RNN모델에 다른 모델을 또 쌓을려면 return_sequences를 true로 써주면 된다.
 - learning mate scheduler가 계속 나와서 헷갈리는데 그래도 정리가 되었다. SGD에 대한 값을 잘 설정하면 성능이 좋아진다.
 - 21.02.05
+
+> Day24
+
+- 코세라 4주차
+- 21.02.06
