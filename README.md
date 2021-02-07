@@ -177,5 +177,10 @@ Sequences, Time Series and Prediction
 
 > Day24
 
-- 코세라 4주차
+- 밥 먹고 노느라 쉬었습니다
 - 21.02.06
+
+> Day25
+
+- 코세라 4주차
+- 21.02.05
