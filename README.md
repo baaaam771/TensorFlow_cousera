@@ -182,5 +182,10 @@ Sequences, Time Series and Prediction
 
 > Day25
 
-- 코세라 4주차
+- 혜주형과 성준이와 밥먹느라 못 했습니다
 - 21.02.05
+
+> Day26
+
+- 코세라 4주차
+- 21.02.06
