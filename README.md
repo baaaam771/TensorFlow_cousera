@@ -172,7 +172,7 @@ Sequences, Time Series and Prediction
 - 코세라 3주차
 - RNN 중에서도 각 타임스텝마다 결과 값이 나오지 않고 마지막만 결과 값이 나오게 하는 모델을 sequence to vector RNN이라고 한다. (근데 검색하면 안 나온다)
 - RNN모델에 다른 모델을 또 쌓을려면 return_sequences를 true로 써주면 된다.
-- learning mate scheduler가 계속 나와서 헷갈리는데 그래도 정리가 되었다. SGD에 대한 값을 잘 설정하면 성능이 좋아진다.
+- learning mate scheduler가 계속 나와서 헷갈리는데 그래도 정리가 되었다. SGD에 대한 lr값을 잘 설정하면 성능이 좋아진다.
 - 21.02.05
 
 > Day24
@@ -187,5 +187,5 @@ Sequences, Time Series and Prediction
 
 > Day26
 
-- 코세라 4주차
+- 친구 집에서 저스트댄스 하다가 쉬었습니다
 - 21.02.06
