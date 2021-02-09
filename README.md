@@ -192,5 +192,10 @@ Sequences, Time Series and Prediction
 
 > Day27
 
-- 코세라 4주차
+- 도서관 안 가서 쉬었습니다
 - 21.02.09
+
+> Day28
+
+- 도서관 안 가서 쉬었습니다
+- 21.02.10
