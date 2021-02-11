@@ -197,5 +197,5 @@ Sequences, Time Series and Prediction
 
 > Day28
 
-- 도서관 안 가서 쉬었습니다
+- 코스트코 가느라 쉬었습니다
 - 21.02.10
